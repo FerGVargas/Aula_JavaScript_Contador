@@ -1,0 +1,9 @@
+body {
+    color: blueviolet;
+    background-color: rgb(177, 225, 255);
+}
+
+#counter {
+    font-size: 20px;
+    color: red;
+}
